@@ -1,15 +1,15 @@
 {
   "blogs": [
     {
-      "title": "First Blog Post",
-      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere quo aliquid voluptatem fuga vel! Expedita asperiores quis animi dignissimos doloremque laudantium, autem dolorum ut distinctio, aliquam amet minus neque magnam eos possimus facere esse quibusdam! Cum ducimus soluta fuga accusamus voluptas laudantium quaerat explicabo. Alias ipsum maxime perferendis ratione adipisci.",
-      "author": "Speed",
+      "title": "My Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam reprehenderit sapiente nemo numquam, magni neque assumenda a ullam sed iste aliquam, aliquid illum odit facere. Dicta ad suscipit, omnis quasi modi dignissimos. Accusamus atque sequi necessitatibus magni quidem blanditiis, neque reiciendis ea in veniam doloribus. Voluptatibus aut nesciunt culpa non!",
+      "author": "Fury",
       "id": 1
     },
     {
-      "title": "Second Blog Post",
-      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere quo aliquid voluptatem fuga vel! Expedita asperiores quis animi dignissimos doloremque laudantium, autem dolorum ut distinctio, aliquam amet minus neque magnam eos possimus facere esse quibusdam! Cum ducimus soluta fuga accusamus voluptas laudantium quaerat explicabo. Alias ipsum maxime perferendis ratione adipisci.",
-      "author": "Fury",
+      "title": "My first Blog",
+      "body": "\nLorem ipsum dolor sit amet consectetur, adipisicing elit. Nam reprehenderit sapiente nemo numquam, magni neque assumenda a ullam sed iste aliquam, aliquid illum odit facere. Dicta ad suscipit, omnis quasi modi dignissimos. Accusamus atque sequi necessitatibus magni quidem blanditiis, neque reiciendis ea in veniam doloribus. Voluptatibus aut nesciunt culpa non!",
+      "author": "Speed",
       "id": 2
     }
   ]

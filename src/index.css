@@ -3,6 +3,13 @@
   color: #333;
 }
 
+body{
+  border-radius: 3px;
+background: #e0e0e0;
+box-shadow:  9px 9px 18px #cccccc,
+             -9px -9px 18px #f4f4f4;
+}
+
 .navbar{
   padding: 20px;
   display: flex;
@@ -38,7 +45,7 @@
 .blog-preview{
   padding: 10px 16px;
   margin: 20px 0;
-  border-bottom: 1px solid #fafafa;
+  border-bottom: 1px solid #f2356d;
 }
 .blog-preview:hover{
   box-shadow: 1px 3px 5px rgba(0,0,0,0.1)
@@ -68,7 +75,9 @@
   border: 0;
   border-radius: 8px;
   cursor: pointer;
+  outline: 0;
 }
+
 
 /* create new blog form */
 .create {
@@ -93,6 +102,10 @@
   box-sizing: border-box;
   display: block;
   outline: 0;
+ border-radius: 5px;
+background: #e0e0e0;
+box-shadow:  4px 4px 7px #cccccc,
+             -4px -4px 7px #f4f4f4;
 }
 .create button {
   background: #f2356d;
